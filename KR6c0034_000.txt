@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 能斷金剛般若波羅蜜多經論釋
+#+DATE: 2015-08-30 19:44:46.625718
+#+PROPERTY: JUAN 0
