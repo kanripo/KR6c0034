@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:46.435028
+#+DATE: 2015-08-30 19:44:48.115159
 #+TITLE: 能斷金剛般若波羅蜜多經論釋
 #+PROPERTY: CBETA_ID T25n1513
 #+PROPERTY: ID KR6c0034
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 25, No. 1513
 #+PROPERTY: VOL 25
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0034_T_003-0882a> ¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《能斷金剛般若波羅蜜多經論釋》¶
+《能斷金剛般若波羅蜜多經論釋》¶
 卷下¶
 ¶
 無著菩薩造頌　世親菩薩釋¶

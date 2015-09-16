@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:46.405516
+#+DATE: 2015-08-30 19:44:48.089874
 #+TITLE: 能斷金剛般若波羅蜜多經論釋
 #+PROPERTY: CBETA_ID T25n1513
 #+PROPERTY: ID KR6c0034
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 25, No. 1513
 #+PROPERTY: VOL 25
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0034_T_002-0878a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 
 <pb:KR6c0034_T_002-0878b>¶
 ¶
-
- 《能斷金剛般若波羅蜜多經論釋》¶
+《能斷金剛般若波羅蜜多經論釋》¶
 卷中¶
 ¶
 無著菩薩造頌　世親菩薩釋¶
@@ -47,7 +46,7 @@
 顯彼福乃是煩惑塵坌之因由其外塵。雖是¶
 無記彼福縱善方之極卑。況並成佛福因。而¶
 不更為微劣。又彼能成大丈夫相所有福業。¶
-媲此成菩提因。持說法門之福亦為是劣。由¶
+[女*((奐-大)/比)]此成菩提因。持說法門之福亦為是劣。由¶
 彼眾相非是正覺之體性故。為此名為大丈¶
 夫相。是彼標相故。由持說福能得大覺性。為
 <pb:KR6c0034_T_002-0878c>¶
